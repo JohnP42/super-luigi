@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super_Luigi", "Super_Luigi\Super_Luigi\Super_Luigi.csproj", "{CA4D7C2A-5991-4588-9AD3-AA707C8A8D36}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Super_LuigiContent", "Super_Luigi\Super_LuigiContent\Super_LuigiContent.contentproj", "{41D0F5AD-63BF-422D-A88F-8E316159D5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4D7C2A-5991-4588-9AD3-AA707C8A8D36}.Debug|x86.ActiveCfg = Debug|x86
+		{CA4D7C2A-5991-4588-9AD3-AA707C8A8D36}.Debug|x86.Build.0 = Debug|x86
+		{CA4D7C2A-5991-4588-9AD3-AA707C8A8D36}.Release|x86.ActiveCfg = Release|x86
+		{CA4D7C2A-5991-4588-9AD3-AA707C8A8D36}.Release|x86.Build.0 = Release|x86
+		{41D0F5AD-63BF-422D-A88F-8E316159D5C8}.Debug|x86.ActiveCfg = Debug|x86
+		{41D0F5AD-63BF-422D-A88F-8E316159D5C8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
